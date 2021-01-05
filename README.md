@@ -2,9 +2,14 @@
  Android App to control Fenix autopilot
 
 #Release
-- V02: Compatible with Fenix autopilot V02
+- V02.1: 
+Compatible with Fenix V02.1
+Compatible with Fenix V02.0 with limitations in CTS panel
 
 #Features
+- V02.1:
+Improved CTS Panel layout
+
 - V02: 
 Improved general performance (VirtuinoCM library)
 Implementation of alarms (Out of course and New Waypoint)
