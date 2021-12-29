@@ -2,10 +2,13 @@
  Android App to control Fenix autopilot
 
 #Release
-- V3.0:
+- V4.1:
 Compatible with Fenix V2.6
 
 #Features
+- V4.1:
+New layout based on Virtuino V6 platform
+
 - V3.0:
 Implementation of Wind Mode
 Improved IMU functionalities: calibration parameters restored in any operational mode
