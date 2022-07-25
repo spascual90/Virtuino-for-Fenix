@@ -2,10 +2,15 @@
  Android App to control Fenix autopilot
 
 #Release
-- V4.1:
-Compatible with Fenix V2.6
+- V4.2:
+Compatible with Fenix V3.2
+Retrocompatible with Fenix V3.1 and V2.6 (with limitations)
 
 #Features
+- V4.2:
+Autotune Configuration screen to enter into Autotune Mode. Autotune Mode proposes PID values based on boat performance test
+Deadband mode button: select autodeadband mode (min, MAX, auto)
+
 - V4.1:
 New layout based on Virtuino V6 platform
 
